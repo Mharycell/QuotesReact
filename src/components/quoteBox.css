@@ -1,0 +1,12 @@
+
+.card{
+    background-color: aliceblue;
+    width:30rem;
+    height: auto;
+    padding: 10px;
+    box-shadow: 2px 2px rgb(71, 70, 70);
+    border-radius: 5px;
+}
+  
+
+
